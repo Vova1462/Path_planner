@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/student/dev/ros_workspace/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/student/dev/ros_workspace/src/image_common/camera_calibration_parsers/include",
+                "/home/student/dev/ros_workspace/src/image_common/camera_info_manager/include",
+                "/home/student/dev/ros_workspace/src/cob_people_perception/cob_leg_detection/include",
+                "/home/student/dev/ros_workspace/src/cob_people_perception/cob_people_tracking_filter/include",
+                "/home/student/dev/ros_workspace/src/image_common/image_transport/include",
+                "/home/student/dev/ros_workspace/src/kobuki/kobuki_auto_docking/include",
+                "/home/student/dev/ros_workspace/src/kobuki/kobuki_bumper2pc/include",
+                "/home/student/dev/ros_workspace/src/kobuki/kobuki_controller_tutorial/include",
+                "/home/student/dev/ros_workspace/src/kobuki/kobuki_keyop/include",
+                "/home/student/dev/ros_workspace/src/kobuki/kobuki_node/include",
+                "/home/student/dev/ros_workspace/src/kobuki/kobuki_random_walker/include",
+                "/home/student/dev/ros_workspace/src/kobuki/kobuki_safety_controller/include",
+                "/home/student/dev/ros_workspace/src/image_common/polled_camera/include",
+                "/home/student/dev/ros_workspace/src/relaxed_astar/include",
+                "/home/student/dev/ros_workspace/src/turtlebot_apps/turtlebot_actions/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
